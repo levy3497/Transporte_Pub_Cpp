@@ -7,6 +7,6 @@ int main(){
     cout << "digite:";
     cin >> a >> b;
     cout << a << endl;
-    c = 10
+    c = 10;
     return 0;
 }
